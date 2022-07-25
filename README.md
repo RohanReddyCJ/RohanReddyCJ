@@ -105,3 +105,15 @@
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanReddyCJ"/>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanReddyCJ"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=RohanReddyCJ&layout=compact"/>
+
+
+
+<a href="https://dev.epicgames.com/community/profile/0PMnK/RohanReddyCJ">
+    <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/>
+</a>
