@@ -29,7 +29,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+
 
 <table width="320px">
     <tbody>
@@ -78,11 +78,11 @@
 
 
 <details>
-    <summary><b>✨About Me</b></summary><br/>
+    <summary><b>About Me</b></summary><br/>
     Sample text
 </details>
 <details>
-    <summary><b>🛠️ Languages & Tools</b></summary><br/>
+    <summary><b> Languages & Tools</b></summary><br/>
     Sample text
 </details>
 
