@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @RohanReddyCJ
-- 👀 I’m interested in ...game development
-- 🌱 I’m currently learning ...game development
-- 
-![youtubee](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
+ <details>
+    <summary><b>About Me</b></summary><br/>
+    - 👋 Hi, I’m @RohanReddyCJ <br>
+    - 👀 I’m interested in ...game development <br>
+    - 🌱 I’m currently learning ...game development
 
-
-
-
+</details>
+<details>
+    <summary><b> Languages & Tools</b></summary><br/>
+    
+    <a href="https://www.artstation.com/rohanreddycj">
+    <img height="50" src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white"/>
+</a>
 
 <a href="https://www.artstation.com/rohanreddycj">
     <img height="50" src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white"/>
@@ -21,6 +25,28 @@
 <a href="https://dev.epicgames.com/community/profile/0PMnK/RohanReddyCJ">
     <img height="50" src="https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white"/>
 </a>
+
+
+
+
+
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <a href="https://dev.epicgames.com/community/profile/0PMnK/RohanReddyCJ">
@@ -90,14 +116,6 @@
 
 
 
-<details>
-    <summary><b>About Me</b></summary><br/>
-    Sample text
-</details>
-<details>
-    <summary><b> Languages & Tools</b></summary><br/>
-    Sample text
-</details>
 
 
 
@@ -136,6 +154,6 @@
 <a href="https://dev.epicgames.com/community/profile/0PMnK/RohanReddyCJ">
     <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg"/>
 </a>
-
+![youtubee](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
 
           
