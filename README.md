@@ -7,10 +7,7 @@
 </details>
 <details>
     <summary><b> Languages & Tools</b></summary><br/>
-    
-    <a href="https://www.artstation.com/rohanreddycj">
-    <img height="50" src="https://img.shields.io/badge/ArtStation-13AFF0.svg?style=for-the-badge&logo=ArtStation&logoColor=white"/>
-</a>
+ 
 
 
 <a href="https://dev.epicgames.com/community/profile/0PMnK/RohanReddyCJ">
